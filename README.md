@@ -1,8 +1,6 @@
 # data_science_project_2022
 
-## key results, lessons learned and achievements
-
-<br>
+### key results, lessons learned and achievements
 
 + One should not unknowingly use the target variable (tips) indirectly to calculate the input variables that one later wants to transfer to the machine learning model. This was a problem for us when we created the feature for the past tipping behavior. This unintentionally tells the machine learning model the result - which becomes problematic as soon as the model is supposed to calculate actual future data. With error, the forecast accuracy on the training set was about 89%, after correction of the corresponding feature 74%. The forecast accuracy on the validation set is 78,6%
 
