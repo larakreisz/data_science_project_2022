@@ -1,4 +1,4 @@
-# data_science_project_2022
+# Data Science Project 2022
 
 ### key results, lessons learned and achievements
 
